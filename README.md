@@ -8,10 +8,12 @@
 </div>
 
 <div align="center">
-    <h1>Languages and Tools 🛠 | Development </h1>
+    <h1>Languages and Tools 🛠 | Web & Dev </h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=bash,c,css,docker,html,linux,lua,mysql,nodejs,notion,postman,py,react,vite,unreal,js" />
   </a>
+
+<h1>Languages and Tools 🛠 | Cybersecurity </h1>
     
 </div>
 
