@@ -1,5 +1,7 @@
-# Hi there 👋 Welcome!
-## I'm Anto, nice to meet you!
+<div align="center">
+<h1>Hi there 👋 Welcome!</h1>
+<h3>I'm Anto, nice to meet you!</h3>
+</div>
 
 
 <h1 align="center">
