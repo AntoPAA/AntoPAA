@@ -1,8 +1,8 @@
 <p align="center">
-<h1> Hi there 👋 Welcome !</h1>
-<h1> 
+<h2> Hi there 👋 Welcome !</h2>
+<h2> 
     <b> I'm Anto nice to meet you ! </b>
-</h1>
+</h2>
 </p>
 
 <h1 align="center">
