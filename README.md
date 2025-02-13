@@ -1,4 +1,4 @@
-<h2 style="color: blue; text-align: center;"> 
+<h2 align="center"> 
     <b> Hi there 👋 Welcome ! </b>
 </h2>
 
@@ -9,5 +9,6 @@
 
 🌱 I’m currently learning LUA !
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoPAA&theme=radical&layout=compact" />
-
+</div>
