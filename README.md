@@ -7,6 +7,8 @@
 
 🌱 I’m currently learning LUA !
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoPAA&theme=radical&layout=compact" />
+
 <!--
 **AntoPAA/AntoPAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
