@@ -1,4 +1,4 @@
-<h2 align="center" style="color:blue"> 
+<h2 style="color: blue; text-align: center;"> 
     <b> Hi there 👋 Welcome ! </b>
 </h2>
 
