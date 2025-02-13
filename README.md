@@ -4,9 +4,9 @@
 </div>
 
 
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=BF56F7&width=435&lines=developer+fullstack;cybersecurity+engineer" />
-</h1>
+</div>
 
 
 🌱 I’m currently learning LUA !
