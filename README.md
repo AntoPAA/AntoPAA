@@ -211,6 +211,7 @@
 <!-- Social Network -->
 
 <div align="center">
+    <img src="IMGFolder/clickend.gif" />
     <h1>My social link 🔗</h1>
     <a href="https://www.linkedin.com/in/antonin-pasquier-cyber/">
         <img src="IMGFolder/LinkedIn.png" alt="Linkedin"/>
