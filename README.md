@@ -222,7 +222,7 @@
 <!-- End (or not) -->
 
 <div align="center">
-    <h2>The road will be long but it will be a pleasure to do it with you!</h2>
     <img src="IMGFolder/cleanback.png" />
+    <h3>The road will be long but it will be a pleasure to do it with you!</h3>
     <img src="IMGFolder/road.gif"/>
 </div>
