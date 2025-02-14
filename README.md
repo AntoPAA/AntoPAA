@@ -11,9 +11,10 @@
 
 <div align="center">
     <h1>Languages and Tools 🛠 | Web & Dev </h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,css,docker,html,linux,lua,mysql,nodejs,notion,postman,py,react,vite,unreal,js" />
-  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="IMGFolder/JSlogo.png" alt="javascript"/>
+    </a>
+
 
 <h1>Languages and Tools 🛠 | Cybersecurity </h1>
     
