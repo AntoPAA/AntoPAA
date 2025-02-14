@@ -118,6 +118,36 @@
     <a href="https://nmap.org">
         <img src="IMGFolder/NMAP.png" alt="Nmap"/>
     </a>
+    <a href="https://www.tenable.com/products/nessus">
+        <img src="IMGFolder/Nessus.png" alt="Nessus"/>
+    </a>
+    <a href="https://github.com/projectdiscovery/nuclei">
+        <img src="IMGFolder/Nuclei.png" alt="Nuclei"/>
+    </a>
+    <a href="https://owasp.org/www-project-top-ten/">
+        <img src="IMGFolder/OWASP.png" alt="OWASP"/>
+    </a>
+    <a href="https://www.openvas.org">
+        <img src="IMGFolder/OpenVAS.png" alt="OpenVAS"/>
+    </a>
+    <a href="https://learn.microsoft.com/en-us/powershell/">
+        <img src="IMGFolder/PowerShell.png" alt="PowerShell"/>
+    </a>
+    <a href="https://protonvpn.com/fr">
+        <img src="IMGFolder/ProtonVPN.png" alt="ProtonVPN"/>
+    </a>
+    <a href="https://www.economie.gouv.fr/entreprises/reglement-general-protection-donnees-rgpd">
+        <img src="IMGFolder/RGPD.png" alt="RGPD"/>
+    </a>
+    <a href="https://www.shodan.io">
+        <img src="IMGFolder/Shodan.png" alt="Shodan"/>
+    </a>
+    <a href="https://sliver.sh">
+        <img src="IMGFolder/Silver.png" alt="SliverC2"/>
+    </a>
+    <a href="https://www.snort.org">
+        <img src="IMGFolder/Snort.png" alt="Snort"/>
+    </a>
     
 </div>
 
