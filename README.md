@@ -12,10 +12,10 @@
 <div align="center">
     <h1>Languages and Tools 🛠 | Web & Dev </h1>
     <a href="https://www.postman.com">
-        <img src="IMGFolder/postman.png" alt="postman"/>
+        <img src="IMGFolder/postman.png" alt="postman" style="border: none; text-decoration: none;/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="IMGFolder/JSlogo.png" alt="javascript"/>
+        <img src="IMGFolder/JSlogo.png" alt="javascript" style="border: none; text-decoration: none;/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST">
         <img src="IMGFolder/apirest.png" alt="ApiRest"/>
