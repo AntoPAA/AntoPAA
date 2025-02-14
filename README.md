@@ -221,3 +221,6 @@
 
 <!-- End (or not) -->
 
+<div align="center">
+    <img src="IMGFolder/road.gif"/>
+</div>
