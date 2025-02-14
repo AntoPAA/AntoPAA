@@ -10,13 +10,13 @@
     </h3>
     <h3>Computer enthusiast since I was little, I love development and learn new thing and new software 😎</h3>
     <h3>🌱 I’m currently learning LUA !</h3>
-    <img src="IMGFolder/webtool.gif" />
+    <img src="IMGFolder/webttool.gif" />
 </div>
 
 <!-- Software -->
 
 <div align="center">
-    <h1 style="font-family: VT323;">Languages and Tools 🛠 | Web & Dev </h1>
+    <h1>Languages and Tools 🛠 | Web & Dev </h1>
     <a href="https://www.postman.com">
         <img src="IMGFolder/postman.png" alt="postman"/>
     </a>
