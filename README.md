@@ -65,6 +65,15 @@
     <a href="https://trello.com/fr">
         <img src="IMGFolder/Trello.png" alt="Trello"/>
     </a>
+    <a href="https://help.ubuntu.com">
+        <img src="IMGFolder/Ubuntu.png" alt="Ubuntu"/>
+    </a>
+    <a href="https://www.unrealengine.com/fr">
+        <img src="IMGFolder/UnrealEngine.png" alt="UnrealEngine"/>
+    </a>
+    <a href="https://vite.dev">
+        <img src="IMGFolder/Vite.png" alt="Vite"/>
+    </a>
 
 
 <h1>Languages and Tools 🛠 | Cybersecurity </h1>
