@@ -225,5 +225,5 @@
     <img src="IMGFolder/cleanend.png" />
     <h3>The road will be long but it will be a pleasure to do it with you!</h3>
     <img src="IMGFolder/roadend.gif"/>
-    <img src="IMGFolder/testload.gif"/>
+    <img src="IMGFolder/loadend.gif"/>
 </div>
