@@ -148,6 +148,51 @@
     <a href="https://www.snort.org">
         <img src="IMGFolder/Snort.png" alt="Snort"/>
     </a>
+    <a href="https://www.tcpdump.org">
+        <img src="IMGFolder/TCPdump.png" alt="TCPdump"/>
+    </a>
+    <a href="https://help.ubuntu.com">
+        <img src="IMGFolder/Ubuntu.png" alt="Ubuntu"/>
+    </a>
+    <a href="https://doc.ubuntu-fr.org/vim">
+        <img src="IMGFolder/Vim.png" alt="Vim"/>
+    </a>
+    <a href="https://wazuh.com">
+        <img src="IMGFolder/Wazuh.png" alt="Wazuh"/>
+    </a>
+    <a href="https://www.microsoft.com/fr-fr/windows?r=1">
+        <img src="IMGFolder/Windows.png" alt="Windows"/>
+    </a>
+    <a href="https://www.wireshark.org">
+        <img src="IMGFolder/WireShark.png" alt="WireShark"/>
+    </a>
+    <a href="https://yara.readthedocs.io/en/latest/">
+        <img src="IMGFolder/Yara.png" alt="YaraRules"/>
+    </a>
+    <a href="https://hjlebbink.github.io/x86doc/">
+        <img src="IMGFolder/asm.png" alt="ASM"/>
+    </a>
+    <a href="https://azure.microsoft.com/fr-fr">
+        <img src="IMGFolder/azure.png" alt="Azure"/>
+    </a>
+    <a href="https://feelagile.com/norme-iso-27001/">
+        <img src="IMGFolder/iso27001.png" alt="ISO27001"/>
+    </a>
+    <a href="https://pwndoc.github.io/pwndoc/#/">
+        <img src="IMGFolder/pwndoc.png" alt="pwndoc"/>
+    </a>
+    <a href="https://www.sonarsource.com/products/sonarqube/">
+        <img src="IMGFolder/sonar.png" alt="Sonar"/>
+    </a>
+    <a href="https://www.virtualbox.org">
+        <img src="IMGFolder/virtualbox.png" alt="VirtualBox"/>
+    </a>
+    <a href="https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/workstation-pro/17-0.html">
+        <img src="IMGFolder/workstation.png" alt="VMware Workstation"/>
+    </a>
+    <a href="https://www.virustotal.com/gui/home/upload">
+        <img src="IMGFolder/virustotal.png" alt="Virus Total"/>
+    </a>
     
 </div>
 
