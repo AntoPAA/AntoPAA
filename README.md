@@ -10,7 +10,7 @@
     </h3>
     <h3>Computer enthusiast since I was little, I love development and learn new thing and new software 😎</h3>
     <h3>🌱 I’m currently learning LUA !</h3>
-    <img src="IMGFolder/webttool.gif" />
+    <img src="IMGFolder/webtooll.gif" />
 </div>
 
 <!-- Software -->
