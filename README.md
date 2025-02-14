@@ -8,8 +8,8 @@
     <h3>
         <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2000&pause=1000&color=BF56F7&center=true&vCenter=true&multiline=true&width=470&height=105&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+cybersecurity+engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%8C%90+developper+fullstack+%F0%9F%8C%90" />
     </h3>
-    Computer enthusiast since I was little, I love development and learn new thing and new software 😎
-    🌱 I’m currently learning LUA !
+    <h3>Computer enthusiast since I was little, I love development and learn new thing and new software 😎</h3>
+    <h3>🌱 I’m currently learning LUA !</h3>
 </div>
 
 <!-- Software -->
