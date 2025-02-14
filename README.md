@@ -50,6 +50,9 @@
     <a href="https://nodejs.org/docs/latest/api/">
         <img src="IMGFolder/Node.png" alt="NodeJS"/>
     </a>
+    <a href="https://www.sonarsource.com/products/sonarqube/">
+        <img src="IMGFolder/sonar.png" alt="Sonar"/>
+    </a>
     <a href="https://www.notion.com/fr">
         <img src="IMGFolder/Notion.png" alt="Notion"/>
     </a>
