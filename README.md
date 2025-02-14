@@ -203,14 +203,13 @@
     <a href="https://www.virustotal.com/gui/home/upload">
         <img src="IMGFolder/virustotal.png" alt="Virus Total"/>
     </a>
+    <img src="IMGFolder/cleanback.png" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoPAA&theme=radical&layout=compact" />
     
 </div>
 
 <!-- Social Network -->
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoPAA&theme=radical&layout=compact" />
-</div>
 
 <!-- End (or not) -->
 
