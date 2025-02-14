@@ -1,4 +1,4 @@
-<img src="Hi there Welcome.gif" />
+<img src="IMGFolder/intro.gif" />
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&pause=1000&color=BF56F7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+Welcome!;I'm+Anto%2C+nice+to+meet+you!" />
