@@ -16,7 +16,7 @@
 <!-- Software -->
 
 <div align="center">
-    <h1>Languages and Tools 🛠 | Web & Dev </h1>
+    <h1 style="font-family: VT323;">Languages and Tools 🛠 | Web & Dev </h1>
     <a href="https://www.postman.com">
         <img src="IMGFolder/postman.png" alt="postman"/>
     </a>
