@@ -74,9 +74,50 @@
     <a href="https://vite.dev">
         <img src="IMGFolder/Vite.png" alt="Vite"/>
     </a>
-
-
+    
 <h1>Languages and Tools 🛠 | Cybersecurity </h1>
+    <a href="https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/active-directory-overview">
+        <img src="IMGFolder/AD.png" alt="AD"/>
+    </a>
+    <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html">
+        <img src="IMGFolder/Bash.png" alt="Bash"/>
+    </a>
+    <a href="https://portswigger.net/burp">
+        <img src="IMGFolder/BurpSuite.png" alt="BurpSuite"/>
+    </a>
+    <a href="https://devdocs.io/c/">
+        <img src="IMGFolder/C.png" alt="C"/>
+    </a>
+    <a href="https://docs.docker.com">
+        <img src="IMGFolder/Docker.png" alt="Docker"/>
+    </a>
+    <a href="https://cyber.gouv.fr/la-methode-ebios-risk-manager">
+        <img src="IMGFolder/EbiosRM.png" alt="EbiosRM"/>
+    </a>
+    <a href="https://www.gns3.com">
+        <img src="IMGFolder/GNS3.png" alt="GNS3"/>
+    </a>
+    <a href="https://ghidra-sre.org">
+        <img src="IMGFolder/Ghidra.png" alt="Ghidra"/>
+    </a>
+    <a href="https://www.kali.org/tools/hydra/">
+        <img src="IMGFolder/Hydra.png" alt="Hydra"/>
+    </a>
+    <a href="https://www.kali.org">
+        <img src="IMGFolder/Kali.png" alt="Kali"/>
+    </a>
+    <a href="https://docs.kernel.org">
+        <img src="IMGFolder/Linux.png" alt="Linux"/>
+    </a>
+    <a href="https://www.metasploit.com">
+        <img src="IMGFolder/Metasploit.png" alt="Metasploit"/>
+    </a>
+    <a href="https://attack.mitre.org">
+        <img src="IMGFolder/MittreAttack.png" alt="MitreAttack"/>
+    </a>
+    <a href="https://nmap.org">
+        <img src="IMGFolder/NMAP.png" alt="Nmap"/>
+    </a>
     
 </div>
 
