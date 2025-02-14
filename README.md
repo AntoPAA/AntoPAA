@@ -83,6 +83,7 @@
     <a href="https://vite.dev">
         <img src="IMGFolder/Vite.png" alt="Vite"/>
     </a>
+    <img src="IMGFolder/cybertool.gif" />
     
 <h1>Languages and Tools 🛠 | Cybersecurity </h1>
     <a href="https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/active-directory-overview">
