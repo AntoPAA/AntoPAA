@@ -17,6 +17,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="IMGFolder/JSlogo.png" alt="javascript"/>
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST">
+        <img src="IMGFolder/apirest.png" alt="ApiRest"/>
+    </a>
 
 
 <h1>Languages and Tools 🛠 | Cybersecurity </h1>
