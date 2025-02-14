@@ -227,4 +227,7 @@
     <img src="IMGFolder/roadend.gif"/>
 </div>
 
+<div align="center">
+<img src="IMGFolder/cleanend.png" />
 <img src="IMGFolder/loadend.gif"/>
+</div>
