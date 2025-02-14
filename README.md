@@ -11,6 +11,9 @@
 
 <div align="center">
     <h1>Languages and Tools 🛠 | Web & Dev </h1>
+    <a href="https://www.postman.com">
+        <img src="IMGFolder/postman.png" alt="postman"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="IMGFolder/JSlogo.png" alt="javascript"/>
     </a>
